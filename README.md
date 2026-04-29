@@ -28,11 +28,6 @@
 
 直接在浏览器中打开 `index.html` 文件即可。
 
-## 在线体验
-
-- GitHub Pages：https://guokeluomu9456.github.io/gesture-starry-sky-website
-- 码云 Pages：https://guokeluomu.gitee.io/gesture-starry-sky-website（需实名认证）
-
 ## 注意事项
 
 - 需要摄像头权限
